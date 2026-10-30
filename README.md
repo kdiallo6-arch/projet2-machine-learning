@@ -1,6 +1,6 @@
 # Projet 2 — Détecter des attaques réseau avec le Machine Learning
 
-**Auteur :** NGOM Khady — L3 Réseaux / Sécurité / IoT
+**Auteur :** Kadidia Diallo — L3 Réseaux / Sécurité / IoT
 
 IDS simple : pour chaque flux réseau, le modèle prédit **normal (0)** ou **attaque (1)**
 (scan de ports, force brute SSH/Telnet, DoS).
@@ -32,7 +32,7 @@ preds = predict(pd.read_csv("nouveaux_flux.csv"))   # liste de 0 / 1
 ---
 ## Résultats
 
-**Nom / Prénom :** NGOM Khady
+**Nom / Prénom :** Kadidia Diallo
 
 Métriques sur le jeu de validation (600 flux, dont 167 attaques) :
 
