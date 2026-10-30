@@ -1,6 +1,6 @@
 # Projet 2 — Détecter des attaques réseau avec le Machine Learning
 
-**Auteur :** Kadidia Diallo — L3 Réseaux / Sécurité / IoT
+**Auteur :** Kadidia Diallo — L2   Réseaux / Sécurité / IoT
 
 IDS simple : pour chaque flux réseau, le modèle prédit **normal (0)** ou **attaque (1)**
 (scan de ports, force brute SSH/Telnet, DoS).
